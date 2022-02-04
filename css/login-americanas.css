@@ -1,0 +1,22 @@
+.bg-red{
+background-color: #e50014;
+}
+
+#americanas{
+   font-size: 31pt;
+}
+
+.border .border-top{
+    border-color: #000000;
+}
+
+.white{
+    color: white;
+}
+
+#continuar{
+    font-size: 16pt;
+    width: 100%;
+    /* padding: 10px 100px !important; */
+
+}
